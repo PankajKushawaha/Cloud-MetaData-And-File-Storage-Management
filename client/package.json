@@ -1,0 +1,8 @@
+{
+  "name": "cloudnest-client",
+  "version": "2.0.0",
+  "private": true,
+  "description": "CloudNest frontend",
+  "scripts": { "start": "npx serve public -l 3000" },
+  "devDependencies": { "serve": "^14.2.4" }
+}
