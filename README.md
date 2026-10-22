@@ -1,1 +1,0 @@
-# Cloud-MetaData-And-File-Storage-Management
